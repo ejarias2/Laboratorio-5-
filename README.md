@@ -11,3 +11,6 @@
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 ### 3.1 Diagrama en Tinkercad
 #### Diagrama dispuesto para el ejercicio.
+![image](https://user-images.githubusercontent.com/116779906/210875469-9b5b2e00-919d-40b2-bc0a-e4f29f6be3f4.png)
+#### Circuito en Tinkercad.
+![image](https://user-images.githubusercontent.com/116779906/210875528-69da9d78-adee-44f2-9420-e15c0f3e9e40.png)
