@@ -35,6 +35,13 @@
 
 ![image](https://user-images.githubusercontent.com/93666408/148496780-2881d3d9-48a8-4f0e-9fc5-3de966997fe3.png)
 
+### Cálculo de voltaje de Thévenin
+![image](https://user-images.githubusercontent.com/116779906/210888720-8c14385c-e30e-4b31-8614-f736cc96f624.png)
+![image](https://user-images.githubusercontent.com/116779906/210888780-bfea0567-e9aa-4e49-8ef6-f12ed40912cb.png)
+
+### Calculo de la corriente y voltaje empleando los valores equivalentes de Thévenin.
+
+
 
 ## 5. VÍDEO
 
