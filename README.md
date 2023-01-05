@@ -40,6 +40,9 @@
 ![image](https://user-images.githubusercontent.com/116779906/210888780-bfea0567-e9aa-4e49-8ef6-f12ed40912cb.png)
 
 ### Calculo de la corriente y voltaje empleando los valores equivalentes de Thévenin.
+![image](https://user-images.githubusercontent.com/116779906/210890547-4e171f47-e964-4d75-96e9-111a47a73a27.png)
+
+* Tabla 5.1: Valores del circuito equivalente de Thévenin
 
 
 
