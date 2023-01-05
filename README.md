@@ -21,7 +21,22 @@
 #### Resistencia de Thévenin.
 ![image](https://user-images.githubusercontent.com/116779906/210876985-18e434d0-ddc4-49a9-acb3-e5ea4c10bc18.png)
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
-## 5. VIDEO
+### Se va a calcular el voltaje y corriente en R5.
+![image](https://user-images.githubusercontent.com/116779906/210884658-71599691-f00f-4d8e-8d20-92c3357a8593.png)
+![image](https://user-images.githubusercontent.com/116779906/210885270-7632d10c-6ac7-43f6-b4a1-5fab174408b1.png)
+### Cálculo de Voltaje y resistencia equivalente de Thévenin
+### Cálculos de la resistencia y del voltaje de Thévenin
+### Resistencia de Thévenin
+* Para calcular la resistencia equivalente de Thévenin se realiza cortocircuito en las fuentes de voltaje.
+
+![image](https://user-images.githubusercontent.com/93666408/148496574-04cb6c2c-d6e5-4bb0-87ed-2ad6ed27b993.png)
+
+![image](https://user-images.githubusercontent.com/93666408/148496736-92c3d3d0-834e-4055-86d0-0517e2f4fb17.png)
+
+![image](https://user-images.githubusercontent.com/93666408/148496780-2881d3d9-48a8-4f0e-9fc5-3de966997fe3.png)
+
+
+## 5. VÍDEO
 
 ## 6. CONCLUSIONES
    #### El teorema de Thévenin es el indicado para simplificar circuitos completos y calcularlos mediante un circuito equivalente constituido por una fuente de tensión junto con una resistencia equivalente.
