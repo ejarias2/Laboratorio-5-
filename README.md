@@ -44,9 +44,11 @@
 
 
 * Tabla 5.1: Valores del circuito equivalente de Thévenin
+
 ![image](https://user-images.githubusercontent.com/116779906/210894379-409a3ea0-700a-4818-9b27-ab43bc7a5641.png)
 
 * Tabla 5.2: Comprobación del teorema de Thévenin
+
 ![image](https://user-images.githubusercontent.com/116779906/210894442-0ead271a-f505-4d8b-8b30-57cf7bb34081.png)
 
 ### Cálculo de errores:
