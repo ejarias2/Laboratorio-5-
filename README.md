@@ -52,7 +52,9 @@
 ![image](https://user-images.githubusercontent.com/116779906/210894442-0ead271a-f505-4d8b-8b30-57cf7bb34081.png)
 
 ### Cálculo de errores:
-* Error porcentual en voltaje de Thévenin
+
+![image](https://user-images.githubusercontent.com/116779906/210896774-1aeb96d6-fa16-494d-b897-295b05fbbaaa.png)
+
 
 
 ## 5. VÍDEO
